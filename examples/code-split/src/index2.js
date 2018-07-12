@@ -1,2 +1,2 @@
 require('./common.css');
-console.log('hello world index1');
+console.log('hello world index2');
